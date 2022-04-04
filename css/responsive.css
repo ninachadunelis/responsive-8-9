@@ -1,0 +1,27 @@
+@media (max-width:1024px) {
+	.top-box{
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+
+	.starter-left{
+        justify-content: space-around;
+        height: auto;
+    }
+
+	.starter-right{
+        justify-content: space-around;
+        height: auto;
+    }
+
+    .lis:not(.active){
+        display: none;
+    }
+        
+    .iconi{
+        display: block;
+    }
+    
+   
+    

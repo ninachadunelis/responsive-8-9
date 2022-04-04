@@ -1,0 +1,35 @@
+.top-box{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1239px;
+    width: 100%;  
+    margin: 0 auto;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+}
+.starter-left{
+    display: flex;
+    margin-top: 67px;
+}
+.starter-right{
+    margin-top: 87px;
+}
+.uls{
+    display: flex;
+}
+
+.lis{
+    margin-right: 10px;
+}
+
+.iconi{
+    color: #564fd6;
+    font-size: 20px;
+    width: 15px;
+    margin-top: 80px;
+    display: none;
+    margin-left: 30px;
+}
