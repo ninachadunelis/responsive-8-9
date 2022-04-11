@@ -241,13 +241,12 @@
 
 .mailbox-heading {
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;
-    margin: 15px 0 5px 0;
+      margin: 15px 0 5px 0;
 }
 
 .mailbox-text {
     color: #B1B1B1;
-    font-family: 'Poppins', sans-serif;
+   
     font-size: 14px;
     line-height: 21px;
 
